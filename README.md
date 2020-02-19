@@ -1,12 +1,6 @@
 I'm sure you've seen some bad code on the internet like this:
 
-```
-// life motto
-if (sad() === true) {
-  sad().stop();
-  beAwesome();
-}
-```
+![Life motto bad code](life-motto/problem.jpg)
 
 What the heck? If sad() returns true how do you call .stop() on it???
 
